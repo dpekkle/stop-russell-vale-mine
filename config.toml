@@ -6,10 +6,10 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 defaultContentLanguage = "en"
 
 # The name of this wonderful theme ;-).
-theme = "hugo-scroll"
+theme = ["hugo-scroll", "hugo-shortcode-gallery"]
 
 # The "title" of your website
-title = "Jane Doe - Nutrition Coach & Chef Consultant"
+title = "Stop Russell Vale Mine"
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.

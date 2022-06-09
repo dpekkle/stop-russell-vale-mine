@@ -1,5 +1,5 @@
 ---
-header_image: "images/cover-image.jpg"
-header_headline: "Jane Doe"
-header_subheadline: "Hi there , I am a Nutrition Coach & Chef Consultant"
+header_image: "images/escarpment.jpg"
+header_headline: "Stop Russell Vale Mine"
+header_subheadline: "We are a grassroots campaign aiming to stop the expansion of underground coal mining at Russell Vale Colliery."
 ---
