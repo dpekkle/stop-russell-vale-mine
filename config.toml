@@ -6,7 +6,7 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 defaultContentLanguage = "en"
 
 # The name of this wonderful theme ;-).
-theme = ["hugo-scroll", "hugo-shortcode-gallery"]
+theme = ["hugo-scroll"]
 
 # The "title" of your website
 title = "Stop Russell Vale Mine"

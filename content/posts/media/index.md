@@ -30,5 +30,3 @@ The Russell Vale expansion will extract coal deeper under the Illawarra Plateau,
 <!-- Probably a conflict here between themes -->
 
 <!-- All images are available for publication. -->
-
-<!-- {{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview="true" loadJQuery=true >}} -->
